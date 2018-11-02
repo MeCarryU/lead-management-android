@@ -11,7 +11,7 @@ This app is currently in development, which means that in the future, many more 
 
 ### Work Flow
 * A Splash Screen that Displays the app icon everytime that app is launched.
-* A Quick Walkthorugh(Slider) of the Visiting Card Android App when the App is launched for the first time.
+* A Quick Walkthrough(Slider) of the Visiting Card Android App when the App is launched for the first time.
 * A Login Activity to ensure only Authentic Users use the app - Implemened using Firebase Authentication.
 * A Base Activity with a BottomNavigation Bar that allows the user to navigate through the list of cotnacts and groups.
 * Contacts Fragment that shows the saved contacts in a RecyclerView with a FAB to add a new contact
